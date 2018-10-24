@@ -37,6 +37,7 @@ VS Code Extensions
 - NuGet Package Manager
 - Quokka.js
 - REST Client
+- SQL Server (mssql)
 - TSLint
 - TypeScript Importer
 - Visual Studio Team Services
