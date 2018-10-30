@@ -17,6 +17,8 @@ Windows
 
 Visual Studio
 - C#: Set view code (F7) as default. Right-click on a file and select "Open With...". Select "CSharp Editor" and then click "Set as Default".
+- SDK for preferred setup
+- .NET Core SDK
 
 SSMS
 - Redgate Search
@@ -24,6 +26,8 @@ SSMS
 VS Code Extensions
 - Angular 2 TypeScript Emmet
 - Angular v6 Snippets
+- Azure Repos
+- Beautify
 - Bookmarks
 - C# (Omnisharp)
 - C# XML Documentation Comments
@@ -40,6 +44,7 @@ VS Code Extensions
 - SQL Server (mssql)
 - TSLint
 - TypeScript Importer
+- Vetur
 - Visual Studio Team Services
 - vscode-icons
 
