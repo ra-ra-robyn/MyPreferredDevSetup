@@ -19,6 +19,8 @@ Visual Studio
 - C#: Set view code (F7) as default. Right-click on a file and select "Open With...". Select "CSharp Editor" and then click "Set as Default".
 - SDK for preferred setup
 - .NET Core SDK
+- .Net Complier SDK 
+- .NetCore tools
 
 SSMS
 - Redgate Search
