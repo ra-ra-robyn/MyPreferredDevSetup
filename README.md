@@ -6,9 +6,11 @@ Dark theme everything.
 Applications
 - VS Code
 - VS
-- SSMS (or SQL Ops)
+- Azure Data Studio
+- SSMS
 - Beyond Compare
 - Notepad++
+- Hyper
 
 Windows
 - Show file extensions
@@ -17,7 +19,6 @@ Windows
 
 Visual Studio
 - C#: Set view code (F7) as default. Right-click on a file and select "Open With...". Select "CSharp Editor" and then click "Set as Default".
-- SDK for preferred setup
 - .NET Core SDK
 - .Net Complier SDK 
 - .NetCore tools
@@ -25,44 +26,39 @@ Visual Studio
 SSMS
 - Redgate Search
 
+Chrome Extensions
+- Dark Reader
+- Momentum
+- Save to Pocket
+- uBlock Origin
+- Play Midnight
+
 VS Code Extensions
-- Angular 2 TypeScript Emmet
-- Angular v6 Snippets
-- Azure Repos
-- Beautify
+- Angular Language Service
 - Bookmarks
+- Bracket Pair Colorizer 2
 - C# (Omnisharp)
-- C# XML Documentation Comments
 - Code Spell Checker
 - Debugger for Chrome
-- Docker
 - Document This
 - Git History
 - GitLens
-- JavaScript (ES6) Code Snippets
-- NuGet Package Manager
-- Quokka.js
-- REST Client
-- SQL Server (mssql)
+- Live Share
+- Prettier
+- TODO Highlight
 - TSLint
-- TypeScript Importer
-- Vetur
-- Visual Studio Team Services
+- TypeScript Hero
 - vscode-icons
 
-VS Code User Settings
+VS Code Settings
 - "workbench.iconTheme": "vscode-icons"
-- formatting settings TBD
-
-VS Code tsconfig
-- "noUnusedLocals": true
-- "noUnusedParameters": true
+- "editor.fontFamily": "'Victor Mono', monospace"
+- "editor.fontLigatures": true
+- "editor.cursorBlinking": "expand"
+- "workbench.colorTheme": "Monokai"
 
 VS Code Tasks
 - TBD
 
 VS Code Launch
 - TBD
-
-Frameworks
-- node.js
